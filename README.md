@@ -94,7 +94,8 @@ This improves traffic management and reduces unnecessary waiting.
 The circuit includes two IR sensors connected as inputs and two traffic signal LED sets connected 
 as outputs through appropriate resistors.
 
-![image alt]()
+![WhatsApp Image 2025-12-12 at 16 33 45](https://github.com/user-attachments/assets/150de237-9cb1-4faf-8834-3da3e55d913e)
+
 
 ---
 
